@@ -111,8 +111,8 @@ body {
     align-items: center;
     padding: 18px 28px;
     background: linear-gradient(135deg, rgba(255, 251, 235, 0.7) 0%, rgba(255, 249, 230, 0.7) 100%);
-    backdrop-filter: blur(10px); 
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px); 
+    -webkit-backdrop-filter: blur(2px);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-lg), 0 0 0 2px var(--border);
     margin-bottom: 28px;
@@ -249,8 +249,8 @@ body {
     background: linear-gradient(135deg, 
         rgba(255, 249, 230, 0.7) 0%, 
         rgba(255, 243, 196, 0.7) 100%);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
     border-radius: var(--radius-lg);
     padding: 48px 40px;
     margin-bottom: 28px;
@@ -335,8 +335,8 @@ body {
 
 .feature-card {
     background: var(--bg-card); 
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
     border-radius: var(--radius-lg);
     padding: 28px;
     box-shadow: var(--shadow-md), 0 0 0 2px var(--border);
@@ -448,8 +448,8 @@ body {
 
 .feature-view {
     background: var(--bg-card);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-lg), 0 0 0 2px var(--border);
     border: 2px solid var(--honey-gold);
